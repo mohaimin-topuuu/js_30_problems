@@ -14,7 +14,7 @@ function myFunction(myArr) {
 
         if(numbers === find) {
 
-            count ++
+            count ++;
 
         }
 
