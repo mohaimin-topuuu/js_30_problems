@@ -20,16 +20,7 @@ Sample Output: Invalid Input
 Sample Input: [7, 8, 3, 4, 5], "9"
 Sample Output: Invalid Input
 
-
 */
-
-
-
-
-
-
-
-
 
 
 function waitingTime(waitingTimes, serialNumber) {
