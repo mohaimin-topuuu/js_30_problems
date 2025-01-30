@@ -10,6 +10,11 @@ Input: 34000, 1753
 Output: 6449.400000000001
 Input: 5000, 1500
 Output: 700
+Input: -5000, 2000
+Output: Invalid Input
+Input: 6000, -1500
+Output: Invalid Input
+
 
 
 */
